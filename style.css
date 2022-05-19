@@ -1,0 +1,27 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+.bg-verdeo {
+    background-color: #285B35;
+}
+.bg-verdec {
+    background-color: #297B3C;
+}
+.row {
+    display: flex;
+    flex-direction: row;
+}
+.p-10-30 {
+    padding: 10px 30px;
+}
+
+
+
+
+
